@@ -1,0 +1,12 @@
+.vs
+
+bin
+obj
+
+*.dll
+*.exe
+*.pdb
+
+
+# end of file
+
